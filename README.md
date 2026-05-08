@@ -9,7 +9,7 @@
 Projekt bada pojęcie [Wielkiej Zapory Sieciowej](https://pl.wikipedia.org/wiki/Wielka_Zapora_Sieciowa) 
 (ang. [The Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall))
 , która polega na blokowaniu dostępu do wybranych zagranicznych witryn internetowych i spowalnianiu transgranicznego ruchu internetowego.  
-Aplikacja ta to asynchroniczny skaner adresów URL przeznaczony do testowania dostępności i analizy zasięgu chińskich stron rządowych w sieci. Narzędzie wczytuje dane z pliku CSV, równolegle testuje połączenia HTTP/HTTPS, rejestruje czasy odpowiedzi, śledzi kody statusu i diagnozuje problemy sieciowe.
+Aplikacja ta to asynchroniczny skaner adresów URL przeznaczony do testowania dostępności i analizy zasięgu chińskich stron rządowych w sieci. Narzędzie wczytuje dane z pliku CSV, równolegle testuje połączenia HTTP, rejestruje czasy odpowiedzi, śledzi kody statusu i diagnozuje problemy sieciowe.
 
 ## Inspiracja projektu
 
