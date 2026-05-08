@@ -60,7 +60,7 @@ Dodatkowe zależności są zawarte w pliku `requirements.txt`, który może pos�
    ```bash
    python -m venv .venv
    ```
-3. Uruchom wirtualne środowisko
+3. Uruchom wirtualne środowisko:
    ```bash
    # na systemie Linux/macOS
    source .venv/bin/activate
@@ -73,17 +73,17 @@ Dodatkowe zależności są zawarte w pliku `requirements.txt`, który może pos�
    ```bash
    pip install -r requirements.txt
    ```
-5. Projekt jest gotowy do uruchomienia i utworzy folder `results` w środku projektu
+5. Projekt jest gotowy do uruchomienia i utworzy folder `results` w środku projektu:
    ```bash
    python main.py
    ```
-6. Środowisko można wyłączyć poleceniem
+6. Środowisko można wyłączyć poleceniem:
    ```bash
    deactivate
    ```
 
 
-## Użycie
+## Uruchamianie
 
 Przed uruchomieniem można dostosować ustawienia logiki skanowania w pliku `config.py` (np. ilość testowanych url, ilość czasu poświęcona na zapytanie).
 
