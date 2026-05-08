@@ -28,6 +28,10 @@ Plik z bazą danych stron chińskich została zapewniona przez autora na otwarte
 
 Vincent Brussee, Conceptualizing the reverse great firewall: cybersecurity and the logics of government geo-blocking in China, Journal of Cybersecurity, Volume 12, Issue 1, 2026, tyag005, https://doi.org/10.1093/cybsec/tyag005
 
+## Ograniczenia względem artykułu naukowego
+
+Artykuł Vincent'a Brussee wykorzystywał 14 różnych serwerów proxy każdy dla osobnych krajów (w tym Chiny, Hong Kong i Tajwan). 
+Ze względu na dodatkowe koszty związane z utworzeniem i konfigurowaniem serwerów proxy ten projekt skupi się na testowaniu stron tylko z lokalizacji użytkownika.
 
 ## Główne funkcjonalności
 
